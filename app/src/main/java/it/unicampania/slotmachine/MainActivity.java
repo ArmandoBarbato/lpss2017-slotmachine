@@ -115,7 +115,7 @@ public class MainActivity extends AppCompatActivity {
          * @param values
          */
         @Override
-        protected void onProgressUpdate(int... values) {
+        protected void onProgressUpdate(Integer... values) {
             super.onProgressUpdate(values);
         }
     }
